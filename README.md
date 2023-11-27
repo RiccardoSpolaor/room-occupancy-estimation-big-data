@@ -165,7 +165,6 @@ vagrant halt worker1
     ├── 06 Gradient Boosted Tree.ipynb          # Notebook to run the Gradient Boosted Tree Classifier.
     ├── 07 Results.ipynb                        # Notebook showing the results.
     ├── bootstrap.sh                            # Provisioning file for the virtual machines.
-    ├── install Findspark.ipynb                 # Notebook to install findspark.
     ├── utils.py                                # Utils functions module.
     ├── .gitattributes
     ├── .gitignore
