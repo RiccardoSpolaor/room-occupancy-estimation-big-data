@@ -75,6 +75,7 @@ vagrant ssh worker1
 And run the following commands:
 ```bash
 cd /
+sudo apt install dos2unix
 dos2unix /vagrant/scripts/worker.sh
 sudo /vagrant/scripts/worker.sh
 exit
