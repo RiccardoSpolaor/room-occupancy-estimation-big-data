@@ -9,7 +9,7 @@ The dataset used in the work is the one presented at the following link: https:/
 
 The reference paper is available at the following link: https://www.semanticscholar.org/paper/e631ea26f0fd88541f42b4e049d63d6b52d6d3ac.
 
-The Machne Learning methods presented differ from the ones in the reference paper, as *Spark* does not provide all of the presented architectures.
+The Machine Learning methods presented differ from the ones in the reference paper, as *Spark* does not provide all of the presented architectures.
 
 The models used in the experiment are
 - Random Forest Classifier
@@ -18,6 +18,8 @@ The models used in the experiment are
 - Multi Layer Perceptron
 - Support Vector Machine
 - Gradient Boosted Tree
+
+The project has been tested on both a local cluster and *Google Colab*, although the presented results are the run obtained through the latter method.
 
 ## Run on Google Colab
 In order to run the experiment on Google Colab follow these steps:
